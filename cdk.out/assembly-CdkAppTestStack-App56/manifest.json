@@ -1,0 +1,61 @@
+{
+  "version": "38.0.1",
+  "artifacts": {
+    "CdkAppTestStackApp56Stack9883E602.assets": {
+      "type": "cdk:asset-manifest",
+      "properties": {
+        "file": "CdkAppTestStackApp56Stack9883E602.assets.json",
+        "requiresBootstrapStackVersion": 6,
+        "bootstrapStackVersionSsmParameter": "/cdk-bootstrap/hnb659fds/version"
+      }
+    },
+    "CdkAppTestStackApp56Stack9883E602": {
+      "type": "aws:cloudformation:stack",
+      "environment": "aws://account56/us-east-1",
+      "properties": {
+        "templateFile": "CdkAppTestStackApp56Stack9883E602.template.json",
+        "terminationProtection": false,
+        "validateOnSynth": true,
+        "notificationArns": [],
+        "assumeRoleArn": "arn:${AWS::Partition}:iam::account56:role/cdk-hnb659fds-deploy-role-account56-us-east-1",
+        "cloudFormationExecutionRoleArn": "arn:${AWS::Partition}:iam::account56:role/cdk-hnb659fds-cfn-exec-role-account56-us-east-1",
+        "stackTemplateAssetObjectUrl": "s3://cdk-hnb659fds-assets-account56-us-east-1/ccde8c51f93503259d6d706a3d5e2a679243b863da420c807eb05001e4ab86ef.json",
+        "requiresBootstrapStackVersion": 6,
+        "bootstrapStackVersionSsmParameter": "/cdk-bootstrap/hnb659fds/version",
+        "additionalDependencies": [
+          "CdkAppTestStackApp56Stack9883E602.assets"
+        ],
+        "lookupRole": {
+          "arn": "arn:${AWS::Partition}:iam::account56:role/cdk-hnb659fds-lookup-role-account56-us-east-1",
+          "requiresBootstrapStackVersion": 8,
+          "bootstrapStackVersionSsmParameter": "/cdk-bootstrap/hnb659fds/version"
+        },
+        "stackName": "App56-Stack"
+      },
+      "dependencies": [
+        "CdkAppTestStackApp56Stack9883E602.assets"
+      ],
+      "metadata": {
+        "/CdkAppTestStack/App56/Stack/CDKMetadata/Default": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CDKMetadata"
+          }
+        ],
+        "/CdkAppTestStack/App56/Stack/BootstrapVersion": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "BootstrapVersion"
+          }
+        ],
+        "/CdkAppTestStack/App56/Stack/CheckBootstrapVersion": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CheckBootstrapVersion"
+          }
+        ]
+      },
+      "displayName": "CdkAppTestStack/App56/Stack"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "version": "38.0.1",
+  "files": {
+    "c070573653654cec97d285e17ba2691140f091ae2429d56e90f6d96c78de4220": {
+      "source": {
+        "path": "../asset.c070573653654cec97d285e17ba2691140f091ae2429d56e90f6d96c78de4220.txt",
+        "packaging": "file"
+      },
+      "destinations": {
+        "account24-us-east-1": {
+          "bucketName": "cdk-hnb659fds-assets-account24-us-east-1",
+          "objectKey": "c070573653654cec97d285e17ba2691140f091ae2429d56e90f6d96c78de4220.txt",
+          "region": "us-east-1",
+          "assumeRoleArn": "arn:${AWS::Partition}:iam::account24:role/cdk-hnb659fds-file-publishing-role-account24-us-east-1"
+        }
+      }
+    },
+    "09ceebbc85d8f1b2f0161c702bbe7d9c91dfa3839ff91c5f61cd2cecce717c61": {
+      "source": {
+        "path": "CdkAppTestStackApp24StackCE15811F.template.json",
+        "packaging": "file"
+      },
+      "destinations": {
+        "account24-us-east-1": {
+          "bucketName": "cdk-hnb659fds-assets-account24-us-east-1",
+          "objectKey": "09ceebbc85d8f1b2f0161c702bbe7d9c91dfa3839ff91c5f61cd2cecce717c61.json",
+          "region": "us-east-1",
+          "assumeRoleArn": "arn:${AWS::Partition}:iam::account24:role/cdk-hnb659fds-file-publishing-role-account24-us-east-1"
+        }
+      }
+    }
+  },
+  "dockerImages": {}
+}

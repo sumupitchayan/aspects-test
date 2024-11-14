@@ -1,0 +1,3571 @@
+{
+  "version": "38.0.1",
+  "artifacts": {
+    "assembly-CdkAppTestStack-App0": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App0",
+        "displayName": "CdkAppTestStack/App0"
+      }
+    },
+    "assembly-CdkAppTestStack-App1": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App1",
+        "displayName": "CdkAppTestStack/App1"
+      }
+    },
+    "assembly-CdkAppTestStack-App2": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App2",
+        "displayName": "CdkAppTestStack/App2"
+      }
+    },
+    "assembly-CdkAppTestStack-App3": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App3",
+        "displayName": "CdkAppTestStack/App3"
+      }
+    },
+    "assembly-CdkAppTestStack-App4": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App4",
+        "displayName": "CdkAppTestStack/App4"
+      }
+    },
+    "assembly-CdkAppTestStack-App5": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App5",
+        "displayName": "CdkAppTestStack/App5"
+      }
+    },
+    "assembly-CdkAppTestStack-App6": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App6",
+        "displayName": "CdkAppTestStack/App6"
+      }
+    },
+    "assembly-CdkAppTestStack-App7": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App7",
+        "displayName": "CdkAppTestStack/App7"
+      }
+    },
+    "assembly-CdkAppTestStack-App8": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App8",
+        "displayName": "CdkAppTestStack/App8"
+      }
+    },
+    "assembly-CdkAppTestStack-App9": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App9",
+        "displayName": "CdkAppTestStack/App9"
+      }
+    },
+    "assembly-CdkAppTestStack-App10": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App10",
+        "displayName": "CdkAppTestStack/App10"
+      }
+    },
+    "assembly-CdkAppTestStack-App11": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App11",
+        "displayName": "CdkAppTestStack/App11"
+      }
+    },
+    "assembly-CdkAppTestStack-App12": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App12",
+        "displayName": "CdkAppTestStack/App12"
+      }
+    },
+    "assembly-CdkAppTestStack-App13": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App13",
+        "displayName": "CdkAppTestStack/App13"
+      }
+    },
+    "assembly-CdkAppTestStack-App14": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App14",
+        "displayName": "CdkAppTestStack/App14"
+      }
+    },
+    "assembly-CdkAppTestStack-App15": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App15",
+        "displayName": "CdkAppTestStack/App15"
+      }
+    },
+    "assembly-CdkAppTestStack-App16": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App16",
+        "displayName": "CdkAppTestStack/App16"
+      }
+    },
+    "assembly-CdkAppTestStack-App17": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App17",
+        "displayName": "CdkAppTestStack/App17"
+      }
+    },
+    "assembly-CdkAppTestStack-App18": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App18",
+        "displayName": "CdkAppTestStack/App18"
+      }
+    },
+    "assembly-CdkAppTestStack-App19": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App19",
+        "displayName": "CdkAppTestStack/App19"
+      }
+    },
+    "assembly-CdkAppTestStack-App20": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App20",
+        "displayName": "CdkAppTestStack/App20"
+      }
+    },
+    "assembly-CdkAppTestStack-App21": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App21",
+        "displayName": "CdkAppTestStack/App21"
+      }
+    },
+    "assembly-CdkAppTestStack-App22": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App22",
+        "displayName": "CdkAppTestStack/App22"
+      }
+    },
+    "assembly-CdkAppTestStack-App23": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App23",
+        "displayName": "CdkAppTestStack/App23"
+      }
+    },
+    "assembly-CdkAppTestStack-App24": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App24",
+        "displayName": "CdkAppTestStack/App24"
+      }
+    },
+    "assembly-CdkAppTestStack-App25": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App25",
+        "displayName": "CdkAppTestStack/App25"
+      }
+    },
+    "assembly-CdkAppTestStack-App26": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App26",
+        "displayName": "CdkAppTestStack/App26"
+      }
+    },
+    "assembly-CdkAppTestStack-App27": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App27",
+        "displayName": "CdkAppTestStack/App27"
+      }
+    },
+    "assembly-CdkAppTestStack-App28": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App28",
+        "displayName": "CdkAppTestStack/App28"
+      }
+    },
+    "assembly-CdkAppTestStack-App29": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App29",
+        "displayName": "CdkAppTestStack/App29"
+      }
+    },
+    "assembly-CdkAppTestStack-App30": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App30",
+        "displayName": "CdkAppTestStack/App30"
+      }
+    },
+    "assembly-CdkAppTestStack-App31": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App31",
+        "displayName": "CdkAppTestStack/App31"
+      }
+    },
+    "assembly-CdkAppTestStack-App32": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App32",
+        "displayName": "CdkAppTestStack/App32"
+      }
+    },
+    "assembly-CdkAppTestStack-App33": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App33",
+        "displayName": "CdkAppTestStack/App33"
+      }
+    },
+    "assembly-CdkAppTestStack-App34": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App34",
+        "displayName": "CdkAppTestStack/App34"
+      }
+    },
+    "assembly-CdkAppTestStack-App35": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App35",
+        "displayName": "CdkAppTestStack/App35"
+      }
+    },
+    "assembly-CdkAppTestStack-App36": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App36",
+        "displayName": "CdkAppTestStack/App36"
+      }
+    },
+    "assembly-CdkAppTestStack-App37": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App37",
+        "displayName": "CdkAppTestStack/App37"
+      }
+    },
+    "assembly-CdkAppTestStack-App38": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App38",
+        "displayName": "CdkAppTestStack/App38"
+      }
+    },
+    "assembly-CdkAppTestStack-App39": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App39",
+        "displayName": "CdkAppTestStack/App39"
+      }
+    },
+    "assembly-CdkAppTestStack-App40": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App40",
+        "displayName": "CdkAppTestStack/App40"
+      }
+    },
+    "assembly-CdkAppTestStack-App41": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App41",
+        "displayName": "CdkAppTestStack/App41"
+      }
+    },
+    "assembly-CdkAppTestStack-App42": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App42",
+        "displayName": "CdkAppTestStack/App42"
+      }
+    },
+    "assembly-CdkAppTestStack-App43": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App43",
+        "displayName": "CdkAppTestStack/App43"
+      }
+    },
+    "assembly-CdkAppTestStack-App44": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App44",
+        "displayName": "CdkAppTestStack/App44"
+      }
+    },
+    "assembly-CdkAppTestStack-App45": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App45",
+        "displayName": "CdkAppTestStack/App45"
+      }
+    },
+    "assembly-CdkAppTestStack-App46": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App46",
+        "displayName": "CdkAppTestStack/App46"
+      }
+    },
+    "assembly-CdkAppTestStack-App47": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App47",
+        "displayName": "CdkAppTestStack/App47"
+      }
+    },
+    "assembly-CdkAppTestStack-App48": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App48",
+        "displayName": "CdkAppTestStack/App48"
+      }
+    },
+    "assembly-CdkAppTestStack-App49": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App49",
+        "displayName": "CdkAppTestStack/App49"
+      }
+    },
+    "assembly-CdkAppTestStack-App50": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App50",
+        "displayName": "CdkAppTestStack/App50"
+      }
+    },
+    "assembly-CdkAppTestStack-App51": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App51",
+        "displayName": "CdkAppTestStack/App51"
+      }
+    },
+    "assembly-CdkAppTestStack-App52": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App52",
+        "displayName": "CdkAppTestStack/App52"
+      }
+    },
+    "assembly-CdkAppTestStack-App53": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App53",
+        "displayName": "CdkAppTestStack/App53"
+      }
+    },
+    "assembly-CdkAppTestStack-App54": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App54",
+        "displayName": "CdkAppTestStack/App54"
+      }
+    },
+    "assembly-CdkAppTestStack-App55": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App55",
+        "displayName": "CdkAppTestStack/App55"
+      }
+    },
+    "assembly-CdkAppTestStack-App56": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App56",
+        "displayName": "CdkAppTestStack/App56"
+      }
+    },
+    "assembly-CdkAppTestStack-App57": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App57",
+        "displayName": "CdkAppTestStack/App57"
+      }
+    },
+    "assembly-CdkAppTestStack-App58": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App58",
+        "displayName": "CdkAppTestStack/App58"
+      }
+    },
+    "assembly-CdkAppTestStack-App59": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App59",
+        "displayName": "CdkAppTestStack/App59"
+      }
+    },
+    "assembly-CdkAppTestStack-App60": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App60",
+        "displayName": "CdkAppTestStack/App60"
+      }
+    },
+    "assembly-CdkAppTestStack-App61": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App61",
+        "displayName": "CdkAppTestStack/App61"
+      }
+    },
+    "assembly-CdkAppTestStack-App62": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App62",
+        "displayName": "CdkAppTestStack/App62"
+      }
+    },
+    "assembly-CdkAppTestStack-App63": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App63",
+        "displayName": "CdkAppTestStack/App63"
+      }
+    },
+    "assembly-CdkAppTestStack-App64": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App64",
+        "displayName": "CdkAppTestStack/App64"
+      }
+    },
+    "assembly-CdkAppTestStack-App65": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App65",
+        "displayName": "CdkAppTestStack/App65"
+      }
+    },
+    "assembly-CdkAppTestStack-App66": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App66",
+        "displayName": "CdkAppTestStack/App66"
+      }
+    },
+    "assembly-CdkAppTestStack-App67": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App67",
+        "displayName": "CdkAppTestStack/App67"
+      }
+    },
+    "assembly-CdkAppTestStack-App68": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App68",
+        "displayName": "CdkAppTestStack/App68"
+      }
+    },
+    "assembly-CdkAppTestStack-App69": {
+      "type": "cdk:cloud-assembly",
+      "properties": {
+        "directoryName": "assembly-CdkAppTestStack-App69",
+        "displayName": "CdkAppTestStack/App69"
+      }
+    },
+    "CdkAppTestStack.assets": {
+      "type": "cdk:asset-manifest",
+      "properties": {
+        "file": "CdkAppTestStack.assets.json",
+        "requiresBootstrapStackVersion": 6,
+        "bootstrapStackVersionSsmParameter": "/cdk-bootstrap/hnb659fds/version"
+      }
+    },
+    "CdkAppTestStack": {
+      "type": "aws:cloudformation:stack",
+      "environment": "aws://123456789012/us-east-1",
+      "properties": {
+        "templateFile": "CdkAppTestStack.template.json",
+        "terminationProtection": false,
+        "validateOnSynth": false,
+        "notificationArns": [],
+        "assumeRoleArn": "arn:${AWS::Partition}:iam::123456789012:role/cdk-hnb659fds-deploy-role-123456789012-us-east-1",
+        "cloudFormationExecutionRoleArn": "arn:${AWS::Partition}:iam::123456789012:role/cdk-hnb659fds-cfn-exec-role-123456789012-us-east-1",
+        "stackTemplateAssetObjectUrl": "s3://cdk-hnb659fds-assets-123456789012-us-east-1/628636ed26c735be7ca28c4f8fc37ed7ce342f3e8decde1a0b7282d88da59ca3.json",
+        "requiresBootstrapStackVersion": 6,
+        "bootstrapStackVersionSsmParameter": "/cdk-bootstrap/hnb659fds/version",
+        "additionalDependencies": [
+          "CdkAppTestStack.assets"
+        ],
+        "lookupRole": {
+          "arn": "arn:${AWS::Partition}:iam::123456789012:role/cdk-hnb659fds-lookup-role-123456789012-us-east-1",
+          "requiresBootstrapStackVersion": 8,
+          "bootstrapStackVersionSsmParameter": "/cdk-bootstrap/hnb659fds/version"
+        }
+      },
+      "dependencies": [
+        "cross-region-stack-123456789012:us-east-2",
+        "cross-region-stack-123456789012:eu-west-1",
+        "cross-region-stack-123456789012:eu-west-2",
+        "cross-region-stack-123456789012:somethingelse1",
+        "cross-region-stack-123456789012:somethingelse-2",
+        "cross-region-stack-123456789012:yapregion",
+        "cross-region-stack-123456789012:more-region",
+        "CdkAppTestStack.assets"
+      ],
+      "metadata": {
+        "/CdkAppTestStack": [
+          {
+            "type": "aws:cdk:info",
+            "data": "Number of resources: 445 is approaching allowed maximum of 500",
+            "trace": [
+              "Annotations.addMessage (/Users/sumughan/Developer/test-txt/cdk-app-test/node_modules/aws-cdk-lib/core/lib/annotations.js:1:1608)",
+              "Annotations.addInfo (/Users/sumughan/Developer/test-txt/cdk-app-test/node_modules/aws-cdk-lib/core/lib/annotations.js:1:1015)",
+              "CdkAppTestStack._synthesizeTemplate (/Users/sumughan/Developer/test-txt/cdk-app-test/node_modules/aws-cdk-lib/core/lib/stack.js:1:14819)",
+              "DefaultStackSynthesizer.synthesizeTemplate (/Users/sumughan/Developer/test-txt/cdk-app-test/node_modules/aws-cdk-lib/core/lib/stack-synthesizers/stack-synthesizer.js:1:2210)",
+              "DefaultStackSynthesizer.synthesize (/Users/sumughan/Developer/test-txt/cdk-app-test/node_modules/aws-cdk-lib/core/lib/stack-synthesizers/default-synthesizer.js:1:6898)",
+              "/Users/sumughan/Developer/test-txt/cdk-app-test/node_modules/aws-cdk-lib/core/lib/private/synthesis.js:2:3394",
+              "visit (/Users/sumughan/Developer/test-txt/cdk-app-test/node_modules/aws-cdk-lib/core/lib/private/synthesis.js:4:372)",
+              "visit (/Users/sumughan/Developer/test-txt/cdk-app-test/node_modules/aws-cdk-lib/core/lib/private/synthesis.js:4:334)",
+              "synthesizeTree (/Users/sumughan/Developer/test-txt/cdk-app-test/node_modules/aws-cdk-lib/core/lib/private/synthesis.js:2:3236)",
+              "synthesize (/Users/sumughan/Developer/test-txt/cdk-app-test/node_modules/aws-cdk-lib/core/lib/private/synthesis.js:1:1696)",
+              "App.synth (/Users/sumughan/Developer/test-txt/cdk-app-test/node_modules/aws-cdk-lib/core/lib/stage.js:1:2263)",
+              "process.<anonymous> (/Users/sumughan/Developer/test-txt/cdk-app-test/node_modules/aws-cdk-lib/core/lib/app.js:1:1745)",
+              "Object.onceWrapper (node:events:629:26)",
+              "process.emit (node:events:514:28)",
+              "process.emit (node:domain:488:12)",
+              "process.emit.sharedData.processEmitHook.installedValue [as emit] (/Users/sumughan/Developer/test-txt/cdk-app-test/node_modules/@cspotcode/source-map-support/source-map-support.js:745:40)"
+            ]
+          },
+          {
+            "type": "aws:cdk:warning",
+            "data": "Template size is approaching limit: 904288/1000000. Split resources into multiple stacks or set suppressTemplateIndentation to reduce template size. [ack: @aws-cdk/core:Stack.templateSize]",
+            "trace": [
+              "Annotations.addMessage (/Users/sumughan/Developer/test-txt/cdk-app-test/node_modules/aws-cdk-lib/core/lib/annotations.js:1:1608)",
+              "Annotations.addWarningV2 (/Users/sumughan/Developer/test-txt/cdk-app-test/node_modules/aws-cdk-lib/core/lib/annotations.js:1:825)",
+              "CdkAppTestStack._synthesizeTemplate (/Users/sumughan/Developer/test-txt/cdk-app-test/node_modules/aws-cdk-lib/core/lib/stack.js:1:15517)",
+              "DefaultStackSynthesizer.synthesizeTemplate (/Users/sumughan/Developer/test-txt/cdk-app-test/node_modules/aws-cdk-lib/core/lib/stack-synthesizers/stack-synthesizer.js:1:2210)",
+              "DefaultStackSynthesizer.synthesize (/Users/sumughan/Developer/test-txt/cdk-app-test/node_modules/aws-cdk-lib/core/lib/stack-synthesizers/default-synthesizer.js:1:6898)",
+              "/Users/sumughan/Developer/test-txt/cdk-app-test/node_modules/aws-cdk-lib/core/lib/private/synthesis.js:2:3394",
+              "visit (/Users/sumughan/Developer/test-txt/cdk-app-test/node_modules/aws-cdk-lib/core/lib/private/synthesis.js:4:372)",
+              "visit (/Users/sumughan/Developer/test-txt/cdk-app-test/node_modules/aws-cdk-lib/core/lib/private/synthesis.js:4:334)",
+              "synthesizeTree (/Users/sumughan/Developer/test-txt/cdk-app-test/node_modules/aws-cdk-lib/core/lib/private/synthesis.js:2:3236)",
+              "synthesize (/Users/sumughan/Developer/test-txt/cdk-app-test/node_modules/aws-cdk-lib/core/lib/private/synthesis.js:1:1696)",
+              "App.synth (/Users/sumughan/Developer/test-txt/cdk-app-test/node_modules/aws-cdk-lib/core/lib/stage.js:1:2263)",
+              "process.<anonymous> (/Users/sumughan/Developer/test-txt/cdk-app-test/node_modules/aws-cdk-lib/core/lib/app.js:1:1745)",
+              "Object.onceWrapper (node:events:629:26)",
+              "process.emit (node:events:514:28)",
+              "process.emit (node:domain:488:12)",
+              "process.emit.sharedData.processEmitHook.installedValue [as emit] (/Users/sumughan/Developer/test-txt/cdk-app-test/node_modules/@cspotcode/source-map-support/source-map-support.js:745:40)"
+            ]
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/ArtifactsBucketEncryptionKey/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineArtifactsBucketEncryptionKeyDDD3258C"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/ArtifactsBucketEncryptionKeyAlias/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineArtifactsBucketEncryptionKeyAlias46E13DD2"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/ArtifactsBucket/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineArtifactsBucket7B46C7BF"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/ArtifactsBucket/Policy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineArtifactsBucketPolicy6C525169"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineRoleC09C4D44"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineRoleDefaultPolicy74C1F938"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/Role/OverflowPolicy1/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineRoleOverflowPolicy1F645AAA0"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipeline69BD9BFA"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/Source/test_test/WebhookResource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineSourcetesttestWebhookResourceCE444604"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/Build/Synth/CdkBuildProject/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineBuildSynthCdkBuildProjectRole5E173C62"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/Build/Synth/CdkBuildProject/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineBuildSynthCdkBuildProjectRoleDefaultPolicyF1326C7A"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/Build/Synth/CdkBuildProject/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineBuildSynthCdkBuildProjectAA5C990E"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App0/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp0DoASecondThingRoleD93CD610"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App0/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp0DoASecondThingRoleDefaultPolicyC36A96F2"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App0/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp0DoASecondThing678209A1"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App0/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp0DoAThingRole52ADA0E1"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App0/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp0DoAThingRoleDefaultPolicy56221E56"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App0/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp0DoAThing237B5FE6"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App1/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp1DoASecondThingRole38765CD8"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App1/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp1DoASecondThingRoleDefaultPolicyFD723089"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App1/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp1DoASecondThing61E18AFE"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App1/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp1DoAThingRoleA1F06970"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App1/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp1DoAThingRoleDefaultPolicy71694A17"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App1/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp1DoAThing39A07CC2"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App2/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp2DoASecondThingRoleB7E48102"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App2/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp2DoASecondThingRoleDefaultPolicy3CA11B1B"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App2/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp2DoASecondThingA37030CF"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App2/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp2DoAThingRoleC7E2F4FD"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App2/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp2DoAThingRoleDefaultPolicyB508AD06"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App2/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp2DoAThing59333D0F"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App3/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp3DoASecondThingRoleBC38E5B3"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App3/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp3DoASecondThingRoleDefaultPolicy9D3EC3A3"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App3/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp3DoASecondThing1C87297C"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App3/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp3DoAThingRole1E66D0EC"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App3/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp3DoAThingRoleDefaultPolicyF46CBCC4"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App3/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp3DoAThing31562F91"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App4/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp4DoASecondThingRoleE700FB85"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App4/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp4DoASecondThingRoleDefaultPolicy1E2E6616"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App4/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp4DoASecondThingFD49E51C"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App4/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp4DoAThingRoleE62E9912"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App4/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp4DoAThingRoleDefaultPolicy27330BA7"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App4/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp4DoAThingDF5F405D"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App5/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp5DoASecondThingRoleA6662A9E"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App5/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp5DoASecondThingRoleDefaultPolicy9F4A08AD"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App5/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp5DoASecondThing7B5C4EF0"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App5/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp5DoAThingRoleE6B79D8C"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App5/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp5DoAThingRoleDefaultPolicy06F189C0"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App5/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp5DoAThingA9D7EF33"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App6/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp6DoASecondThingRole2789A354"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App6/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp6DoASecondThingRoleDefaultPolicy17261207"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App6/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp6DoASecondThing40D58E81"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App6/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp6DoAThingRole7C939A9C"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App6/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp6DoAThingRoleDefaultPolicyB025FC38"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App6/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp6DoAThing0FB60F37"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App7/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp7DoASecondThingRoleD1BA629F"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App7/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp7DoASecondThingRoleDefaultPolicyBF976488"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App7/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp7DoASecondThing82EA4A92"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App7/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp7DoAThingRole57B43678"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App7/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp7DoAThingRoleDefaultPolicy990A734C"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App7/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp7DoAThingDCA751CD"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App8/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp8DoASecondThingRole19008414"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App8/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp8DoASecondThingRoleDefaultPolicy75787C56"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App8/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp8DoASecondThing631C06C7"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App8/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp8DoAThingRole307012DF"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App8/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp8DoAThingRoleDefaultPolicyCED11890"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App8/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp8DoAThing03318635"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App9/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp9DoASecondThingRoleB4DDE52C"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App9/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp9DoASecondThingRoleDefaultPolicy09A26BAD"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App9/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp9DoASecondThingF709E275"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App9/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp9DoAThingRole1D14A338"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App9/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp9DoAThingRoleDefaultPolicy9E0095A9"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App9/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp9DoAThing4F6FDBDD"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App10/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp10DoASecondThingRoleCB8C0E0A"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App10/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp10DoASecondThingRoleDefaultPolicy1710570A"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App10/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp10DoASecondThing8E458EA7"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App10/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp10DoAThingRoleD29DD6A3"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App10/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp10DoAThingRoleDefaultPolicy8D6A3529"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App10/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp10DoAThingA3C35BD1"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App11/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp11DoASecondThingRole5318DF38"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App11/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp11DoASecondThingRoleDefaultPolicy9E51FCFF"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App11/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp11DoASecondThingFA14B468"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App11/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp11DoAThingRole5444C6D3"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App11/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp11DoAThingRoleDefaultPolicyD91A48E1"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App11/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp11DoAThingAA049C88"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App12/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp12DoASecondThingRoleE77087DA"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App12/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp12DoASecondThingRoleDefaultPolicyE1A39A11"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App12/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp12DoASecondThing85709461"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App12/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp12DoAThingRole4E314D62"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App12/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp12DoAThingRoleDefaultPolicy2D72804B"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App12/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp12DoAThing47EF6412"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App13/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp13DoASecondThingRole6CFB30D5"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App13/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp13DoASecondThingRoleDefaultPolicy672E719A"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App13/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp13DoASecondThingCA49EABF"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App13/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp13DoAThingRole5E599103"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App13/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp13DoAThingRoleDefaultPolicy867907D6"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App13/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp13DoAThingC808E2FE"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App14/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp14DoASecondThingRole64060A1B"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App14/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp14DoASecondThingRoleDefaultPolicy85B4AB3A"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App14/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp14DoASecondThing7F1A2ACB"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App14/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp14DoAThingRole90D38B54"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App14/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp14DoAThingRoleDefaultPolicyB1CEEA42"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App14/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp14DoAThing18B139D2"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App15/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp15DoASecondThingRoleAB6C5CC3"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App15/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp15DoASecondThingRoleDefaultPolicyB2EC1BEE"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App15/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp15DoASecondThing78FFE47F"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App15/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp15DoAThingRole258B8F18"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App15/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp15DoAThingRoleDefaultPolicy076388C4"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App15/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp15DoAThing6AAC705A"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App16/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp16DoASecondThingRoleDEEC1783"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App16/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp16DoASecondThingRoleDefaultPolicyCCD6AB07"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App16/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp16DoASecondThing96145458"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App16/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp16DoAThingRoleDCFADB4F"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App16/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp16DoAThingRoleDefaultPolicyA1F606A6"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App16/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp16DoAThingE114FAF9"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App17/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp17DoASecondThingRole05D2993E"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App17/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp17DoASecondThingRoleDefaultPolicy898455A1"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App17/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp17DoASecondThing1A6F9899"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App17/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp17DoAThingRole2A794A12"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App17/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp17DoAThingRoleDefaultPolicy17E63485"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App17/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp17DoAThing241673AF"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App18/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp18DoASecondThingRole1D9BFC65"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App18/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp18DoASecondThingRoleDefaultPolicyF2150414"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App18/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp18DoASecondThingCEB66A56"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App18/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp18DoAThingRole51ECFA16"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App18/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp18DoAThingRoleDefaultPolicyCC55E7F8"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App18/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp18DoAThingD46C7E7A"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App19/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp19DoASecondThingRole8E8BCA11"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App19/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp19DoASecondThingRoleDefaultPolicyC5815F8D"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App19/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp19DoASecondThing65CAFC00"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App19/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp19DoAThingRole83AEC32D"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App19/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp19DoAThingRoleDefaultPolicyD18EE9FE"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App19/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp19DoAThing58063201"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App20/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp20DoASecondThingRole1090E6D8"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App20/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp20DoASecondThingRoleDefaultPolicyEE7A40E1"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App20/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp20DoASecondThingBBDD38E4"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App20/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp20DoAThingRole660617CB"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App20/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp20DoAThingRoleDefaultPolicyAEAE903F"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App20/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp20DoAThingE96EBEFC"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App21/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp21DoASecondThingRoleED1D3FE1"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App21/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp21DoASecondThingRoleDefaultPolicyF917268C"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App21/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp21DoASecondThing9F9335F1"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App21/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp21DoAThingRoleDE204C19"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App21/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp21DoAThingRoleDefaultPolicyFCE66602"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App21/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp21DoAThingE26A89E2"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App22/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp22DoASecondThingRoleF79B0965"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App22/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp22DoASecondThingRoleDefaultPolicy7EEC14CD"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App22/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp22DoASecondThingBA78A18A"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App22/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp22DoAThingRoleDFDF4DBD"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App22/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp22DoAThingRoleDefaultPolicyA38A0935"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App22/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp22DoAThing17B8AFA9"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App23/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp23DoASecondThingRoleF17F0B70"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App23/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp23DoASecondThingRoleDefaultPolicy51B3152D"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App23/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp23DoASecondThing8729937F"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App23/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp23DoAThingRole001873F9"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App23/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp23DoAThingRoleDefaultPolicy6BD1A9D0"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App23/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp23DoAThing0B4D59A1"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App24/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp24DoASecondThingRoleCFA8B5D3"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App24/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp24DoASecondThingRoleDefaultPolicyFDC69125"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App24/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp24DoASecondThing92E70E53"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App24/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp24DoAThingRole3D6C116A"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App24/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp24DoAThingRoleDefaultPolicy8D6D9985"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App24/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp24DoAThingC1E9BC28"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App25/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp25DoASecondThingRole5738D195"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App25/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp25DoASecondThingRoleDefaultPolicy00700A7B"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App25/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp25DoASecondThing220775AA"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App25/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp25DoAThingRoleA8998F26"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App25/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp25DoAThingRoleDefaultPolicy97A3B6D2"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App25/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp25DoAThingF666CDAE"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App26/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp26DoASecondThingRole84C36230"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App26/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp26DoASecondThingRoleDefaultPolicy1AE2405B"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App26/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp26DoASecondThing86167FF7"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App26/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp26DoAThingRole02E07217"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App26/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp26DoAThingRoleDefaultPolicyAAC5BE46"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App26/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp26DoAThingA7EDBCF7"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App27/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp27DoASecondThingRoleD6D3AE45"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App27/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp27DoASecondThingRoleDefaultPolicy396EDFF9"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App27/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp27DoASecondThing0AB4A2DB"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App27/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp27DoAThingRole11E752A2"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App27/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp27DoAThingRoleDefaultPolicy9B303592"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App27/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp27DoAThingB4BCFF04"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App28/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp28DoASecondThingRoleCD1C9FA2"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App28/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp28DoASecondThingRoleDefaultPolicy280DD17E"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App28/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp28DoASecondThingDAE0BD6F"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App28/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp28DoAThingRoleF7577434"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App28/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp28DoAThingRoleDefaultPolicy394AEB40"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App28/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp28DoAThingA2F39AD5"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App29/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp29DoASecondThingRole90C04F70"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App29/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp29DoASecondThingRoleDefaultPolicy383FC5B0"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App29/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp29DoASecondThing647435C6"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App29/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp29DoAThingRole8AB6D6E1"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App29/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp29DoAThingRoleDefaultPolicyF41BBBF6"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App29/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp29DoAThing7474BC5A"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App30/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp30DoASecondThingRole01F2594D"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App30/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp30DoASecondThingRoleDefaultPolicyBDFDC635"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App30/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp30DoASecondThing639127AB"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App30/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp30DoAThingRole796CB59C"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App30/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp30DoAThingRoleDefaultPolicy32A0EF3C"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App30/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp30DoAThing9C819129"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App31/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp31DoASecondThingRole0A9A8157"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App31/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp31DoASecondThingRoleDefaultPolicy820CB14F"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App31/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp31DoASecondThingC57C7CCA"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App31/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp31DoAThingRole669F022C"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App31/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp31DoAThingRoleDefaultPolicyC84975A7"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App31/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp31DoAThing0033FA9E"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App32/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp32DoASecondThingRoleB60A9C6C"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App32/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp32DoASecondThingRoleDefaultPolicy968AE7CA"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App32/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp32DoASecondThing17AFA731"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App32/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp32DoAThingRoleD513AD40"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App32/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp32DoAThingRoleDefaultPolicy30D3C3D0"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App32/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp32DoAThingE9CC9E57"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App33/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp33DoASecondThingRole7E33FD46"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App33/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp33DoASecondThingRoleDefaultPolicy9FBC3FFB"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App33/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp33DoASecondThing3A53CF11"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App33/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp33DoAThingRole8E14F37E"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App33/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp33DoAThingRoleDefaultPolicyCC22F793"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App33/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp33DoAThing0B21D8D2"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App34/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp34DoASecondThingRole8C5C6BF7"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App34/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp34DoASecondThingRoleDefaultPolicyD3053C03"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App34/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp34DoASecondThing1D717634"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App34/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp34DoAThingRole2719E5AD"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App34/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp34DoAThingRoleDefaultPolicy181854F7"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App34/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp34DoAThing3D3BD483"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App35/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp35DoASecondThingRoleC70F37FA"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App35/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp35DoASecondThingRoleDefaultPolicy316FF738"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App35/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp35DoASecondThingCC5C4564"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App35/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp35DoAThingRole420DD1B1"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App35/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp35DoAThingRoleDefaultPolicy010CF78D"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App35/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp35DoAThing058DBCF3"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App36/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp36DoASecondThingRoleD6E1AE21"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App36/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp36DoASecondThingRoleDefaultPolicy30345687"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App36/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp36DoASecondThing9BEF7D93"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App36/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp36DoAThingRoleA4006145"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App36/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp36DoAThingRoleDefaultPolicy3BE1ED02"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App36/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp36DoAThing453F23A6"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App37/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp37DoASecondThingRoleDBD19E21"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App37/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp37DoASecondThingRoleDefaultPolicy5BD61F90"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App37/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp37DoASecondThingBD3C65C9"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App37/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp37DoAThingRoleC189312E"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App37/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp37DoAThingRoleDefaultPolicyCFBFEE8B"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App37/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp37DoAThing3413635D"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App38/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp38DoASecondThingRole770ADA42"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App38/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp38DoASecondThingRoleDefaultPolicy9B7BEB2F"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App38/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp38DoASecondThing1C162842"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App38/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp38DoAThingRole0913B8BD"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App38/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp38DoAThingRoleDefaultPolicyE2493B12"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App38/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp38DoAThingCBBF7668"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App39/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp39DoASecondThingRoleBD39D36B"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App39/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp39DoASecondThingRoleDefaultPolicyF9C91D72"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App39/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp39DoASecondThing68B8938C"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App39/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp39DoAThingRole06239684"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App39/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp39DoAThingRoleDefaultPolicy6F6DDC64"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App39/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp39DoAThing156C3E18"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App40/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp40DoASecondThingRoleF3AD8718"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App40/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp40DoASecondThingRoleDefaultPolicy95FF6F61"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App40/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp40DoASecondThing36D57BA9"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App40/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp40DoAThingRole9007A99E"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App40/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp40DoAThingRoleDefaultPolicy232489FC"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App40/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp40DoAThingCF5C328E"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App41/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp41DoASecondThingRole6CF50F4B"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App41/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp41DoASecondThingRoleDefaultPolicy9A5DBD31"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App41/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp41DoASecondThingF2DC1734"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App41/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp41DoAThingRole4F8EFD6C"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App41/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp41DoAThingRoleDefaultPolicy1142539D"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App41/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp41DoAThing150E2150"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App42/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp42DoASecondThingRole0311470E"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App42/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp42DoASecondThingRoleDefaultPolicyE170147C"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App42/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp42DoASecondThing89E1CCAB"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App42/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp42DoAThingRole83AF9373"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App42/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp42DoAThingRoleDefaultPolicy64EA8AB5"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App42/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp42DoAThing6E172169"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App43/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp43DoASecondThingRoleA6E23CC0"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App43/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp43DoASecondThingRoleDefaultPolicyB8795C04"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App43/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp43DoASecondThingB64759F3"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App43/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp43DoAThingRole20651C13"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App43/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp43DoAThingRoleDefaultPolicy7F314EE7"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App43/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp43DoAThingBA7C6F8E"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App44/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp44DoASecondThingRole7A337B51"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App44/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp44DoASecondThingRoleDefaultPolicy35983E06"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App44/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp44DoASecondThingFCC8B905"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App44/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp44DoAThingRoleA0135DDB"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App44/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp44DoAThingRoleDefaultPolicy16A3493A"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App44/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp44DoAThing146D3206"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App45/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp45DoASecondThingRole64B5E57D"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App45/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp45DoASecondThingRoleDefaultPolicyF13375FB"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App45/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp45DoASecondThingED7429D0"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App45/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp45DoAThingRoleE9B20196"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App45/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp45DoAThingRoleDefaultPolicy3C005158"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App45/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp45DoAThingD2123932"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App46/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp46DoASecondThingRole421FD0DB"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App46/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp46DoASecondThingRoleDefaultPolicyACF0866D"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App46/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp46DoASecondThingFAA4599C"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App46/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp46DoAThingRoleAF42D25B"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App46/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp46DoAThingRoleDefaultPolicy48E0AAAE"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App46/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp46DoAThing0B9AB7A7"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App47/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp47DoASecondThingRole5F8E9AC0"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App47/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp47DoASecondThingRoleDefaultPolicyD55515A0"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App47/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp47DoASecondThing032D6322"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App47/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp47DoAThingRoleDCFEE4AC"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App47/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp47DoAThingRoleDefaultPolicy71D9EAF9"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App47/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp47DoAThingDF3F56EC"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App48/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp48DoASecondThingRole7C21B364"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App48/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp48DoASecondThingRoleDefaultPolicy4665DFB8"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App48/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp48DoASecondThing31944471"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App48/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp48DoAThingRole85788FB5"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App48/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp48DoAThingRoleDefaultPolicyC29FEAB5"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App48/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp48DoAThing3770CA84"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App49/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp49DoASecondThingRole9C1D2876"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App49/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp49DoASecondThingRoleDefaultPolicy83D55E48"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App49/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp49DoASecondThingE0411DEF"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App49/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp49DoAThingRoleC3F3F9F7"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App49/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp49DoAThingRoleDefaultPolicyF13E6F6B"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App49/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp49DoAThingCF236E52"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App50/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp50DoASecondThingRoleD9134B26"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App50/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp50DoASecondThingRoleDefaultPolicy5977D474"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App50/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp50DoASecondThing6CCFE6AF"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App50/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp50DoAThingRole7847F8BF"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App50/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp50DoAThingRoleDefaultPolicyF7464242"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App50/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp50DoAThingD09FA4E9"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App51/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp51DoASecondThingRole73B2EA6E"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App51/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp51DoASecondThingRoleDefaultPolicyF621EA61"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App51/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp51DoASecondThingA4458CAD"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App51/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp51DoAThingRole799508DD"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App51/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp51DoAThingRoleDefaultPolicyD7DF75F9"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App51/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp51DoAThing3DF13440"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App52/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp52DoASecondThingRole9C204442"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App52/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp52DoASecondThingRoleDefaultPolicy1F994DFE"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App52/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp52DoASecondThing33FCDB1F"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App52/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp52DoAThingRole6E67281C"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App52/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp52DoAThingRoleDefaultPolicyEFB93048"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App52/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp52DoAThing5CBDBD3B"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App53/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp53DoASecondThingRoleEE0B4600"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App53/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp53DoASecondThingRoleDefaultPolicyEBB24300"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App53/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp53DoASecondThing7CD6640C"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App53/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp53DoAThingRoleB74B7074"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App53/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp53DoAThingRoleDefaultPolicyCF28A1F8"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App53/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp53DoAThing60AF446D"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App54/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp54DoASecondThingRole9CAF0EE1"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App54/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp54DoASecondThingRoleDefaultPolicy1C524BFE"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App54/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp54DoASecondThingDA7F4739"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App54/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp54DoAThingRole6DB2872A"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App54/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp54DoAThingRoleDefaultPolicy7421B5C4"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App54/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp54DoAThing4A07EF2D"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App55/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp55DoASecondThingRoleECB29683"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App55/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp55DoASecondThingRoleDefaultPolicyD1BD9B82"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App55/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp55DoASecondThingA5BBEC87"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App55/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp55DoAThingRole6570A9F0"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App55/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp55DoAThingRoleDefaultPolicy33A677AD"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App55/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp55DoAThing85B8668D"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App56/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp56DoASecondThingRoleD436B542"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App56/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp56DoASecondThingRoleDefaultPolicy62ADFE54"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App56/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp56DoASecondThingE9A8801E"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App56/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp56DoAThingRole9FFEEC3C"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App56/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp56DoAThingRoleDefaultPolicyA83A1D15"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App56/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp56DoAThing01730B3F"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App57/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp57DoASecondThingRole81D859E0"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App57/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp57DoASecondThingRoleDefaultPolicy6562B21F"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App57/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp57DoASecondThingFEEB8053"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App57/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp57DoAThingRole0F1B955E"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App57/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp57DoAThingRoleDefaultPolicyAEB3D469"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App57/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp57DoAThingF0E3C48C"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App58/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp58DoASecondThingRole51EE44C2"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App58/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp58DoASecondThingRoleDefaultPolicy67287D49"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App58/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp58DoASecondThingDB9A586E"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App58/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp58DoAThingRole535E6AB5"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App58/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp58DoAThingRoleDefaultPolicyEA666F8E"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App58/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp58DoAThing8CB66111"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App59/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp59DoASecondThingRole48597561"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App59/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp59DoASecondThingRoleDefaultPolicy6A2D8E8E"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App59/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp59DoASecondThingD601CA2F"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App59/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp59DoAThingRole1404B92F"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App59/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp59DoAThingRoleDefaultPolicy68846A4F"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App59/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp59DoAThingF3C6220B"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App60/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp60DoASecondThingRole00794E19"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App60/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp60DoASecondThingRoleDefaultPolicyA27243E2"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App60/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp60DoASecondThing727BF52B"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App60/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp60DoAThingRole787046E9"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App60/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp60DoAThingRoleDefaultPolicyEA5A5DC4"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App60/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp60DoAThing4FE93E4E"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App61/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp61DoASecondThingRole73F4E71F"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App61/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp61DoASecondThingRoleDefaultPolicyDFA04574"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App61/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp61DoASecondThing2CA280E0"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App61/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp61DoAThingRoleFB54BC80"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App61/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp61DoAThingRoleDefaultPolicy8105B4FC"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App61/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp61DoAThing3335B350"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App62/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp62DoASecondThingRoleC117ABC0"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App62/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp62DoASecondThingRoleDefaultPolicy4CB73021"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App62/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp62DoASecondThing867966F4"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App62/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp62DoAThingRole5A6BCF73"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App62/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp62DoAThingRoleDefaultPolicy18145EC2"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App62/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp62DoAThing60A0B28A"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App63/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp63DoASecondThingRoleA85BE073"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App63/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp63DoASecondThingRoleDefaultPolicy08A44E7E"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App63/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp63DoASecondThing14BE2B40"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App63/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp63DoAThingRoleD2789E57"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App63/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp63DoAThingRoleDefaultPolicyDC06121F"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App63/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp63DoAThing02D6C3EB"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App64/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp64DoASecondThingRoleB6DFA2F2"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App64/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp64DoASecondThingRoleDefaultPolicyA1E3FD3E"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App64/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp64DoASecondThing2C54A1D7"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App64/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp64DoAThingRole78D29686"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App64/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp64DoAThingRoleDefaultPolicy5A611926"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App64/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp64DoAThingE81EF132"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App65/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp65DoASecondThingRoleBF857376"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App65/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp65DoASecondThingRoleDefaultPolicyC65E3A63"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App65/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp65DoASecondThing73E7FB88"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App65/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp65DoAThingRoleEE9E898E"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App65/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp65DoAThingRoleDefaultPolicy0349082C"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App65/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp65DoAThingB6705B4E"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App66/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp66DoASecondThingRoleD013FF1F"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App66/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp66DoASecondThingRoleDefaultPolicy255B543A"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App66/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp66DoASecondThingEE14CC24"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App66/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp66DoAThingRoleA9F955A4"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App66/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp66DoAThingRoleDefaultPolicyFBE96AC7"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App66/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp66DoAThing2F5FD6C9"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App67/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp67DoASecondThingRole0338FC7D"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App67/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp67DoASecondThingRoleDefaultPolicy84312C08"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App67/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp67DoASecondThing14674E52"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App67/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp67DoAThingRoleEF8C0436"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App67/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp67DoAThingRoleDefaultPolicy261ADA1E"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App67/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp67DoAThing27B210C7"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App68/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp68DoASecondThingRole5FEE461F"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App68/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp68DoASecondThingRoleDefaultPolicy2A04A977"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App68/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp68DoASecondThingE493439D"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App68/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp68DoAThingRole5F52864D"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App68/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp68DoAThingRoleDefaultPolicy8F20F635"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App68/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp68DoAThingF32265AC"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App69/DoASecondThing/DoASecondThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp69DoASecondThingRole1A3C6808"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App69/DoASecondThing/DoASecondThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp69DoASecondThingRoleDefaultPolicyD6F1B961"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App69/DoASecondThing/DoASecondThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp69DoASecondThing0C262AEC"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App69/DoAThing/DoAThing/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp69DoAThingRole86061E05"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App69/DoAThing/DoAThing/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp69DoAThingRoleDefaultPolicyB1CDC4AA"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Pipeline/App69/DoAThing/DoAThing/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkPipelineApp69DoAThingF92F5373"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/CodeBuildActionRole/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkCodeBuildActionRole072EFB66"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/CodeBuildActionRole/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkCodeBuildActionRoleDefaultPolicyA4CD197D"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/CodeBuildActionRole/OverflowPolicy1/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkCodeBuildActionRoleOverflowPolicy199FA245A"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/CodeBuildActionRole/OverflowPolicy2/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkCodeBuildActionRoleOverflowPolicy28535020F"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/CodeBuildActionRole/OverflowPolicy3/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkCodeBuildActionRoleOverflowPolicy33DFCAC69"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/UpdatePipeline/SelfMutation/Role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkUpdatePipelineSelfMutationRoleAAF1B580"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/UpdatePipeline/SelfMutation/Role/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkUpdatePipelineSelfMutationRoleDefaultPolicy6C930615"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/UpdatePipeline/SelfMutation/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkUpdatePipelineSelfMutation792CBD4D"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Assets/FileRole/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkAssetsFileRole6BE17A07"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Assets/FileRole/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkAssetsFileRoleDefaultPolicy7AA4B32E"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Assets/FileRole/OverflowPolicy1/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkAssetsFileRoleOverflowPolicy1DEF7D490"
+          }
+        ],
+        "/CdkAppTestStack/Cdk/Assets/FileAsset1/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CdkAssetsFileAsset18723944B"
+          }
+        ],
+        "/CdkAppTestStack/CDKMetadata/Default": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CDKMetadata"
+          }
+        ],
+        "/CdkAppTestStack/BootstrapVersion": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "BootstrapVersion"
+          }
+        ],
+        "/CdkAppTestStack/CheckBootstrapVersion": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CheckBootstrapVersion"
+          }
+        ]
+      },
+      "displayName": "CdkAppTestStack"
+    },
+    "Tree": {
+      "type": "cdk:tree",
+      "properties": {
+        "file": "tree.json"
+      }
+    },
+    "cross-region-stack-123456789012:us-east-2": {
+      "type": "aws:cloudformation:stack",
+      "environment": "aws://123456789012/us-east-2",
+      "properties": {
+        "templateFile": "cross-region-stack-123456789012:us-east-2.template.json",
+        "terminationProtection": false,
+        "validateOnSynth": false,
+        "notificationArns": [],
+        "assumeRoleArn": "arn:${AWS::Partition}:iam::123456789012:role/cdk-hnb659fds-deploy-role-123456789012-us-east-1",
+        "cloudFormationExecutionRoleArn": "arn:${AWS::Partition}:iam::123456789012:role/cdk-hnb659fds-cfn-exec-role-123456789012-us-east-1",
+        "stackName": "CdkAppTestStack-support-us-east-2"
+      },
+      "metadata": {
+        "/cross-region-stack-123456789012:us-east-2/Default/CrossRegionCodePipelineReplicationBucketEncryptionKey/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CrossRegionCodePipelineReplicationBucketEncryptionKey70216490"
+          }
+        ],
+        "/cross-region-stack-123456789012:us-east-2/Default/CrossRegionCodePipelineReplicationBucketEncryptionAlias/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CrossRegionCodePipelineReplicationBucketEncryptionAliasF1A0F37D"
+          }
+        ],
+        "/cross-region-stack-123456789012:us-east-2/Default/CrossRegionCodePipelineReplicationBucket/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CrossRegionCodePipelineReplicationBucketFC3227F2"
+          }
+        ],
+        "/cross-region-stack-123456789012:us-east-2/Default/CrossRegionCodePipelineReplicationBucket/Policy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CrossRegionCodePipelineReplicationBucketPolicyB7BA2BCA"
+          }
+        ],
+        "/cross-region-stack-123456789012:us-east-2/CDKMetadata/Default": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CDKMetadata"
+          }
+        ]
+      },
+      "displayName": "cross-region-stack-123456789012:us-east-2"
+    },
+    "cross-region-stack-123456789012:eu-west-1": {
+      "type": "aws:cloudformation:stack",
+      "environment": "aws://123456789012/eu-west-1",
+      "properties": {
+        "templateFile": "cross-region-stack-123456789012:eu-west-1.template.json",
+        "terminationProtection": false,
+        "validateOnSynth": false,
+        "notificationArns": [],
+        "assumeRoleArn": "arn:${AWS::Partition}:iam::123456789012:role/cdk-hnb659fds-deploy-role-123456789012-us-east-1",
+        "cloudFormationExecutionRoleArn": "arn:${AWS::Partition}:iam::123456789012:role/cdk-hnb659fds-cfn-exec-role-123456789012-us-east-1",
+        "stackName": "CdkAppTestStack-support-eu-west-1"
+      },
+      "metadata": {
+        "/cross-region-stack-123456789012:eu-west-1/Default/CrossRegionCodePipelineReplicationBucketEncryptionKey/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CrossRegionCodePipelineReplicationBucketEncryptionKey70216490"
+          }
+        ],
+        "/cross-region-stack-123456789012:eu-west-1/Default/CrossRegionCodePipelineReplicationBucketEncryptionAlias/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CrossRegionCodePipelineReplicationBucketEncryptionAliasF1A0F37D"
+          }
+        ],
+        "/cross-region-stack-123456789012:eu-west-1/Default/CrossRegionCodePipelineReplicationBucket/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CrossRegionCodePipelineReplicationBucketFC3227F2"
+          }
+        ],
+        "/cross-region-stack-123456789012:eu-west-1/Default/CrossRegionCodePipelineReplicationBucket/Policy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CrossRegionCodePipelineReplicationBucketPolicyB7BA2BCA"
+          }
+        ],
+        "/cross-region-stack-123456789012:eu-west-1/CDKMetadata/Default": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CDKMetadata"
+          }
+        ]
+      },
+      "displayName": "cross-region-stack-123456789012:eu-west-1"
+    },
+    "cross-region-stack-123456789012:eu-west-2": {
+      "type": "aws:cloudformation:stack",
+      "environment": "aws://123456789012/eu-west-2",
+      "properties": {
+        "templateFile": "cross-region-stack-123456789012:eu-west-2.template.json",
+        "terminationProtection": false,
+        "validateOnSynth": false,
+        "notificationArns": [],
+        "assumeRoleArn": "arn:${AWS::Partition}:iam::123456789012:role/cdk-hnb659fds-deploy-role-123456789012-us-east-1",
+        "cloudFormationExecutionRoleArn": "arn:${AWS::Partition}:iam::123456789012:role/cdk-hnb659fds-cfn-exec-role-123456789012-us-east-1",
+        "stackName": "CdkAppTestStack-support-eu-west-2"
+      },
+      "metadata": {
+        "/cross-region-stack-123456789012:eu-west-2/Default/CrossRegionCodePipelineReplicationBucketEncryptionKey/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CrossRegionCodePipelineReplicationBucketEncryptionKey70216490"
+          }
+        ],
+        "/cross-region-stack-123456789012:eu-west-2/Default/CrossRegionCodePipelineReplicationBucketEncryptionAlias/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CrossRegionCodePipelineReplicationBucketEncryptionAliasF1A0F37D"
+          }
+        ],
+        "/cross-region-stack-123456789012:eu-west-2/Default/CrossRegionCodePipelineReplicationBucket/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CrossRegionCodePipelineReplicationBucketFC3227F2"
+          }
+        ],
+        "/cross-region-stack-123456789012:eu-west-2/Default/CrossRegionCodePipelineReplicationBucket/Policy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CrossRegionCodePipelineReplicationBucketPolicyB7BA2BCA"
+          }
+        ],
+        "/cross-region-stack-123456789012:eu-west-2/CDKMetadata/Default": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CDKMetadata"
+          }
+        ]
+      },
+      "displayName": "cross-region-stack-123456789012:eu-west-2"
+    },
+    "cross-region-stack-123456789012:somethingelse1": {
+      "type": "aws:cloudformation:stack",
+      "environment": "aws://123456789012/somethingelse1",
+      "properties": {
+        "templateFile": "cross-region-stack-123456789012:somethingelse1.template.json",
+        "terminationProtection": false,
+        "validateOnSynth": false,
+        "notificationArns": [],
+        "assumeRoleArn": "arn:${AWS::Partition}:iam::123456789012:role/cdk-hnb659fds-deploy-role-123456789012-us-east-1",
+        "cloudFormationExecutionRoleArn": "arn:${AWS::Partition}:iam::123456789012:role/cdk-hnb659fds-cfn-exec-role-123456789012-us-east-1",
+        "stackName": "CdkAppTestStack-support-somethingelse1"
+      },
+      "metadata": {
+        "/cross-region-stack-123456789012:somethingelse1/Default/CrossRegionCodePipelineReplicationBucketEncryptionKey/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CrossRegionCodePipelineReplicationBucketEncryptionKey70216490"
+          }
+        ],
+        "/cross-region-stack-123456789012:somethingelse1/Default/CrossRegionCodePipelineReplicationBucketEncryptionAlias/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CrossRegionCodePipelineReplicationBucketEncryptionAliasF1A0F37D"
+          }
+        ],
+        "/cross-region-stack-123456789012:somethingelse1/Default/CrossRegionCodePipelineReplicationBucket/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CrossRegionCodePipelineReplicationBucketFC3227F2"
+          }
+        ],
+        "/cross-region-stack-123456789012:somethingelse1/Default/CrossRegionCodePipelineReplicationBucket/Policy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CrossRegionCodePipelineReplicationBucketPolicyB7BA2BCA"
+          }
+        ]
+      },
+      "displayName": "cross-region-stack-123456789012:somethingelse1"
+    },
+    "cross-region-stack-123456789012:somethingelse-2": {
+      "type": "aws:cloudformation:stack",
+      "environment": "aws://123456789012/somethingelse-2",
+      "properties": {
+        "templateFile": "cross-region-stack-123456789012:somethingelse-2.template.json",
+        "terminationProtection": false,
+        "validateOnSynth": false,
+        "notificationArns": [],
+        "assumeRoleArn": "arn:${AWS::Partition}:iam::123456789012:role/cdk-hnb659fds-deploy-role-123456789012-us-east-1",
+        "cloudFormationExecutionRoleArn": "arn:${AWS::Partition}:iam::123456789012:role/cdk-hnb659fds-cfn-exec-role-123456789012-us-east-1",
+        "stackName": "CdkAppTestStack-support-somethingelse-2"
+      },
+      "metadata": {
+        "/cross-region-stack-123456789012:somethingelse-2/Default/CrossRegionCodePipelineReplicationBucketEncryptionKey/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CrossRegionCodePipelineReplicationBucketEncryptionKey70216490"
+          }
+        ],
+        "/cross-region-stack-123456789012:somethingelse-2/Default/CrossRegionCodePipelineReplicationBucketEncryptionAlias/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CrossRegionCodePipelineReplicationBucketEncryptionAliasF1A0F37D"
+          }
+        ],
+        "/cross-region-stack-123456789012:somethingelse-2/Default/CrossRegionCodePipelineReplicationBucket/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CrossRegionCodePipelineReplicationBucketFC3227F2"
+          }
+        ],
+        "/cross-region-stack-123456789012:somethingelse-2/Default/CrossRegionCodePipelineReplicationBucket/Policy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CrossRegionCodePipelineReplicationBucketPolicyB7BA2BCA"
+          }
+        ]
+      },
+      "displayName": "cross-region-stack-123456789012:somethingelse-2"
+    },
+    "cross-region-stack-123456789012:yapregion": {
+      "type": "aws:cloudformation:stack",
+      "environment": "aws://123456789012/yapregion",
+      "properties": {
+        "templateFile": "cross-region-stack-123456789012:yapregion.template.json",
+        "terminationProtection": false,
+        "validateOnSynth": false,
+        "notificationArns": [],
+        "assumeRoleArn": "arn:${AWS::Partition}:iam::123456789012:role/cdk-hnb659fds-deploy-role-123456789012-us-east-1",
+        "cloudFormationExecutionRoleArn": "arn:${AWS::Partition}:iam::123456789012:role/cdk-hnb659fds-cfn-exec-role-123456789012-us-east-1",
+        "stackName": "CdkAppTestStack-support-yapregion"
+      },
+      "metadata": {
+        "/cross-region-stack-123456789012:yapregion/Default/CrossRegionCodePipelineReplicationBucketEncryptionKey/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CrossRegionCodePipelineReplicationBucketEncryptionKey70216490"
+          }
+        ],
+        "/cross-region-stack-123456789012:yapregion/Default/CrossRegionCodePipelineReplicationBucketEncryptionAlias/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CrossRegionCodePipelineReplicationBucketEncryptionAliasF1A0F37D"
+          }
+        ],
+        "/cross-region-stack-123456789012:yapregion/Default/CrossRegionCodePipelineReplicationBucket/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CrossRegionCodePipelineReplicationBucketFC3227F2"
+          }
+        ],
+        "/cross-region-stack-123456789012:yapregion/Default/CrossRegionCodePipelineReplicationBucket/Policy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CrossRegionCodePipelineReplicationBucketPolicyB7BA2BCA"
+          }
+        ]
+      },
+      "displayName": "cross-region-stack-123456789012:yapregion"
+    },
+    "cross-region-stack-123456789012:more-region": {
+      "type": "aws:cloudformation:stack",
+      "environment": "aws://123456789012/more-region",
+      "properties": {
+        "templateFile": "cross-region-stack-123456789012:more-region.template.json",
+        "terminationProtection": false,
+        "validateOnSynth": false,
+        "notificationArns": [],
+        "assumeRoleArn": "arn:${AWS::Partition}:iam::123456789012:role/cdk-hnb659fds-deploy-role-123456789012-us-east-1",
+        "cloudFormationExecutionRoleArn": "arn:${AWS::Partition}:iam::123456789012:role/cdk-hnb659fds-cfn-exec-role-123456789012-us-east-1",
+        "stackName": "CdkAppTestStack-support-more-region"
+      },
+      "metadata": {
+        "/cross-region-stack-123456789012:more-region/Default/CrossRegionCodePipelineReplicationBucketEncryptionKey/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CrossRegionCodePipelineReplicationBucketEncryptionKey70216490"
+          }
+        ],
+        "/cross-region-stack-123456789012:more-region/Default/CrossRegionCodePipelineReplicationBucketEncryptionAlias/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CrossRegionCodePipelineReplicationBucketEncryptionAliasF1A0F37D"
+          }
+        ],
+        "/cross-region-stack-123456789012:more-region/Default/CrossRegionCodePipelineReplicationBucket/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CrossRegionCodePipelineReplicationBucketFC3227F2"
+          }
+        ],
+        "/cross-region-stack-123456789012:more-region/Default/CrossRegionCodePipelineReplicationBucket/Policy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CrossRegionCodePipelineReplicationBucketPolicyB7BA2BCA"
+          }
+        ]
+      },
+      "displayName": "cross-region-stack-123456789012:more-region"
+    }
+  }
+}
